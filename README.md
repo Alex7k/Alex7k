@@ -13,6 +13,10 @@ I value:
 - open source
 - learning
 
+![](https://github-readme-stats.vercel.app/api?username=alex7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alex7k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alex7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## Contact
 
 If you want to collaborate on one of my repos, contact me.
