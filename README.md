@@ -10,6 +10,7 @@ I value:
 - maintainability
 - dockerization
 - linux
+- security (especially through philosophy that makes security easy)
 - open source
 - learning
 
