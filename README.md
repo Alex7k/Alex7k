@@ -88,3 +88,7 @@ OS:
 If you want to collaborate on one of my repos, contact me.
 
 - Discord — **alexxisreal** — [*766405189631475743*](https://discord.id/)
+
+## Other
+
+- [PGP Key](https://alex7k.com/pgp.asc)
