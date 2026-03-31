@@ -85,9 +85,7 @@ OS:
 
 ## Contact
 
-If you want to collaborate on one of my repos, contact me.
-
-- Discord — **alexxisreal** — [*766405189631475743*](https://discord.id/)
+If you want to collaborate on one of my repositories or contact me for anything else, send a message via the anonymous form on [alex7k.com](https://alex7k.com). Include a way for me to reach you.
 
 ## Other
 
