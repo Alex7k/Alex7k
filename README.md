@@ -14,8 +14,7 @@ I value:
 - open source
 - learning
 
-OS:
-- Arch Linux
+OS: btw
 
 ## Tech Stack
 
