@@ -1,8 +1,5 @@
 # Alex7k
 
-<img src="https://komarev.com/ghpvc/?username=alex7k&label=Profile%20views&color=0e75b6&style=flat" alt="alex7k" />
-</p>
-
 Hi 👋 — I'm a software developer from Switzerland.
 
 I value:
