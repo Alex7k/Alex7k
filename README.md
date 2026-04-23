@@ -1,5 +1,7 @@
 # Alex7k
 
+Hi 👋 — I'm a software developer from Switzerland.
+
 I value:
 
 - simplicity
