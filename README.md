@@ -8,7 +8,7 @@ I value:
 - maintainability
 - dockerization
 - linux
-- security (especially through philosophy that makes security easy)
+- security (taking heuristics into account)
 - open source
 - self-hosting
 - learning
