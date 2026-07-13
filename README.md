@@ -1,6 +1,6 @@
 # Alex7k
 
-Hi 👋 — I'm a software developer from Switzerland.
+Hi. I'm a software developer from Switzerland.
 
 I value:
 
@@ -9,6 +9,7 @@ I value:
 - dockerization
 - linux
 - security (taking heuristics into account)
+- privacy technology
 - open source
 - self-hosting
 - learning
