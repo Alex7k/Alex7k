@@ -2,13 +2,12 @@
 
 Hi. I'm a software developer from Switzerland.
 
-I value:
+I like:
 - curiosity
 - simplicity
 - dockerization
 - linux
-- security: threat modeling
-- privacy technology
+- security and privacy technology
 - FOSS
 - self-hosting
 
