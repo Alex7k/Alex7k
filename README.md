@@ -3,11 +3,11 @@
 Hi. I'm a software developer from Switzerland.
 
 I like:
-- curiosity
+- exploring new things
 - simplicity
-- dockerization
 - linux
 - security and privacy technology
+- dockerization
 - FOSS
 - self-hosting
 
