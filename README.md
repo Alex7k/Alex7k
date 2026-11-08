@@ -7,7 +7,7 @@ I like:
 - simplicity
 - linux
 - security and privacy technology
-- dockerization
+- dockerization/modularity
 - FOSS
 - self-hosting
 
